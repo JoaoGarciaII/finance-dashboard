@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/finance.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Sistema
+.DS_Store
+.env
+*.env

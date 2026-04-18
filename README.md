@@ -101,6 +101,7 @@ Retorna:
 - Microinterações e transições suaves
 
 ## Melhorias futuras
+- responsivo para mobile
 - autenticação
 - metas financeiras
 - exportar CSV
